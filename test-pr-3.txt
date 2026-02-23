@@ -1,0 +1,5 @@
+This is the third test pull request.
+
+This PR is created for testing merge operations with custom commit title and message.
+
+Testing merge functionality and PR workflow.
